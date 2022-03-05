@@ -4,9 +4,6 @@ CS undergraduate at IFB (Brazil).<br/>
 <br/>
 Interested in CG and in game, software and web development.
 
-Now learning:<br/>
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
-
 ### 🚀 Skills
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -33,3 +30,7 @@ Now learning:<br/>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+### 📗 Now learning:
+
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
