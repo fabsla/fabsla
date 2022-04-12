@@ -34,4 +34,4 @@
 
 ### 📗 Now learning:
 
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+  ![Phaser](https://img.shields.io/badge/-Phaser-333333?style=flat&logo=Phaser)
