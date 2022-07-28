@@ -1,4 +1,4 @@
-<img align=right src="./gumballcomp.gif" width="500"/>
+<img align=right src="./gumballcomp.gif" width="400"/>
     Hello there, and welcome.<br/><br/>
     I'm Fabio Lapa.<br/>
     CS undergraduate at IFB (Brazil).<br/>
