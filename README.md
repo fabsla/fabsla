@@ -35,5 +35,5 @@
 
 ### 📗 Now learning:
 
-  ![CakePHP](https://img.shields.io/badge/-CakePHP-333333?style=flat&logo=CakePHP)<br/>
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)<br/>
   ![Phaser](https://img.shields.io/badge/-Phaser-333333?style=flat&logo=Phaser)
