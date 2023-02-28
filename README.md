@@ -36,4 +36,7 @@
 ### 📗 Now learning:
 
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)<br/>
+  ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=flat&logo=livewire)<br/>
+  ![Jetstream](https://img.shields.io/badge/-Jetstream-333333?style=flat&logo=jetstream)<br/>
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)<br/>
   ![Phaser](https://img.shields.io/badge/-Phaser-333333?style=flat&logo=Phaser)
