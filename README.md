@@ -39,5 +39,5 @@
   ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=plastic&logo=livewire)<br/>
   ![Jetstream](https://img.shields.io/badge/-Jetstream-333333?style=plastic&logo=jetstream)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap)
-  ![Bootstrap](https://img.shields.io/badge/-"Tailwind CSS"-333333?style=plastic&logo=tailwindcss)<br/>
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=plastic&logo=tailwindcss)<br/>
   ![Phaser](https://img.shields.io/badge/-Phaser-333333?style=plastic&logo=Phaser)
