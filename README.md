@@ -9,7 +9,7 @@
 
   ![C](https://img.shields.io/badge/-C-333333?style=plastic&logo=C&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=plastic&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=plastic&logo=csharp&logoColor=00599C)
+  ![C Sharp](https://img.shields.io/badge/-C#-333333?style=plastic&logo=csharp&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=Java&logoColor=007396)
   ![Julia](https://img.shields.io/badge/-Julia-333333?style=plastic&logo=Julia)<br/>
