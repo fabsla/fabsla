@@ -16,7 +16,7 @@
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=plastic&logo=unity)
   ![SDL](https://img.shields.io/badge/-SDL-333333?style=plastic&logo=sdl)<br/>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=plastic&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=PHP)<br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
