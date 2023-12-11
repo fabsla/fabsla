@@ -12,15 +12,23 @@
   ![C Sharp](https://img.shields.io/badge/-C%23-333333?style=plastic&logo=csharp&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=Java&logoColor=007396)
-  ![Julia](https://img.shields.io/badge/-Julia-333333?style=plastic&logo=Julia)<br/>
-  ![Unity](https://img.shields.io/badge/-Unity-333333?style=plastic&logo=unity)
-  ![SDL](https://img.shields.io/badge/-SDL-333333?style=plastic&logo=sdl)<br/>
+  ![Julia](https://img.shields.io/badge/-Julia-333333?style=plastic&logo=Julia)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=PHP)<br/>
+  
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=Laravel)
+  ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=plastic&logo=livewire)
+  ![Jetstream](https://img.shields.io/badge/-Jetstream-333333?style=plastic&logo=jetstream)<br/>
+  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)<br/>
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=plastic&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=PHP)<br/>
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap)<br/>
+  
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=plastic&logo=unity)
+  ![SDL](https://img.shields.io/badge/-SDL-333333?style=plastic&logo=sdl)<br/>
 
 ### 🛠 DevTools
 
@@ -37,9 +45,5 @@
 
 ### 📗 Now learning:
 
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=Laravel)
-  ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=plastic&logo=livewire)<br/>
-  ![Jetstream](https://img.shields.io/badge/-Jetstream-333333?style=plastic&logo=jetstream)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=plastic&logo=tailwindcss)<br/>
   ![Phaser](https://img.shields.io/badge/-Phaser-333333?style=plastic&logo=Phaser)
