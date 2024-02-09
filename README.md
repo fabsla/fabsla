@@ -45,5 +45,17 @@
 
 ### 📗 Now learning:
 
+  ![Django](https://img.shields.io/badge/-Django-333333?style=plastic&logo=django)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=plastic&logo=fastapi)<br/>
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker)<br/>
+
+### 📚 Learning Backlog:
+
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=plastic&logo=kubernetes)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=plastic&logo=jenkins)<br/>
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=plastic&logo=tailwindcss)<br/>
-  ![Phaser](https://img.shields.io/badge/-Phaser-333333?style=plastic&logo=Phaser)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=plastic&logo=angular)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextdotjs)
+  ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
+  ![React Native](https://img.shields.io/badge/-React_Native-333333?style=plastic&logo=react)<br/>
+  ![Phaser](https://img.shields.io/badge/-Phaser-333333?style=plastic&logo=phaser)
