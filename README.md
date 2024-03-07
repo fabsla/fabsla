@@ -14,19 +14,15 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=Java&logoColor=007396)
   ![Julia](https://img.shields.io/badge/-Julia-333333?style=plastic&logo=Julia)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=PHP)<br/>
-  
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=Laravel)
   ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=plastic&logo=livewire)
   ![Jetstream](https://img.shields.io/badge/-Jetstream-333333?style=plastic&logo=jetstream)<br/>
-  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)<br/>
-  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=plastic&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap)<br/>
-  
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=plastic&logo=unity)
   ![SDL](https://img.shields.io/badge/-SDL-333333?style=plastic&logo=sdl)<br/>
 
