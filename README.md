@@ -17,8 +17,11 @@ Interested in game, software and web development and also in CG.
   ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=plastic&logo=livewire)
   ![Jetstream](https://img.shields.io/badge/-Jetstream-333333?style=plastic&logo=jetstream)<br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)<br/>
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=MongoDB)<br/>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=plastic&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)<br />
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=plastic&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap)<br/>
@@ -37,17 +40,15 @@ Interested in game, software and web development and also in CG.
 
 ### 「📗」Now learning:
 
-  ![Django](https://img.shields.io/badge/-Django-333333?style=plastic&logo=django)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=plastic&logo=fastapi)<br/>
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker)<br/>
 
 ### 「📚」Learning Backlog:
 
+  ![Django](https://img.shields.io/badge/-Django-333333?style=plastic&logo=django)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=plastic&logo=kubernetes)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=plastic&logo=jenkins)<br/>
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=plastic&logo=tailwindcss)<br/>
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=plastic&logo=angular)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextdotjs)
-  ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=plastic&logo=react)<br/>
-  ![Phaser](https://img.shields.io/badge/-Phaser-333333?style=plastic&logo=phaser)
