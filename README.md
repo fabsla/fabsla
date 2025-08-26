@@ -48,12 +48,12 @@ Looking forward to learn some more!<br/>
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=plastic&logo=springboot)<br/>
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=plastic&logo=kubernetes)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=plastic&logo=jenkins)<br/>
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=plastic&logo=tailwindcss)<br/>
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=plastic&logo=tailwindcss)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=plastic&logo=angular)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=plastic&logo=vuedotjs)<br/>
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=plastic&logo=vuedotjs)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextdotjs)
-  ![.NET](https://img.shields.io/badge/-.NET-333333?style=plastic&logo=dotnet)
   
+  ![.NET](https://img.shields.io/badge/-.NET-333333?style=plastic&logo=dotnet)
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=plastic&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=plastic&logo=django)<br/>
 
