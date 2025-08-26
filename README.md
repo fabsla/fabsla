@@ -8,7 +8,7 @@ I also like refactoring and optimizing things and I enjoy playing around with SQ
 Currently working as a Junior, Full-Stack SWE with React (TS) and Laravel (PHP) (but I'm willing to go back to Python, although I'm also open to Java lol).<br/>
 Looking forward to learn some more!<br/>
 
-### 「⚙」Languages & Frameworks
+### 「⚙」Languages
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=Java&logoColor=007396)
