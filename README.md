@@ -26,6 +26,7 @@ Looking forward to learn some more!<br/>
 
 ### 「📖」Frameworks & Libraries
 
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=plastic&logo=fastapi)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=Laravel)
   ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=plastic&logo=livewire)
   ![Jetstream](https://img.shields.io/badge/-Jetstream-333333?style=plastic&logo=jetstream)
@@ -40,8 +41,8 @@ Looking forward to learn some more!<br/>
 
 ### 「📗」Now learning:
 
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=plastic&logo=fastapi)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=plastic&logo=graphql)
 
 ### 「📚」Learning Backlog:
 
@@ -52,12 +53,15 @@ Looking forward to learn some more!<br/>
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=plastic&logo=angular)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=plastic&logo=vuedotjs)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextdotjs)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=plastic&logo=redis)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=plastic&logo=rabbitmq)
+  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=plastic&logo=apachekafka)
   
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=plastic&logo=dotnet)
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=plastic&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=plastic&logo=django)<br/>
 
-### 「❓」Random things:
+### 「❓」Random things I've learned along the way:
 
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=plastic&logo=unity)
   ![SDL](https://img.shields.io/badge/-SDL-333333?style=plastic&logo=sdl)
